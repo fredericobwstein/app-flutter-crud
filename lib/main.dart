@@ -19,14 +19,11 @@ class MyApp extends StatelessWidget {
       ),
     ],
     child: MaterialApp(
-        title: 'CRUD XINISTRO',
+        title: 'CRUD DE USUÁRIO',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           primarySwatch: Colors.blue,
-          primaryColor: Colors.white,
-          textTheme: TextTheme(
-            bodyText2: TextStyle(color: Colors.white),
-          ),
+          visualDensity: VisualDensity.adaptivePlatformDensity,
         ),
         routes: {
           AppRoutes.HOME: (_) => UserList(),
