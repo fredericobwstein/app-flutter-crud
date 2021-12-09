@@ -10,11 +10,6 @@ Status: Pronto ✅
   + URL do avatar (ícone de perfil)
   + e-mail
 
-  ## Também há alguns usuários com:
-
-  + CPF
-  + Endereço
-  + Telefone
 
   ## Além do CRUD, nós temos outras funcionalidades, tais como:
 
