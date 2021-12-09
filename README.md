@@ -24,7 +24,7 @@ Status: Pronto ✅
       <td> Flutter </td>
     </tr>
     <tr>
-      <td> 2. * </td>
+      <td> 2.5.0 </td>
     </tr>
 
   </table>
