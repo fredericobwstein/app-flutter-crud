@@ -4,7 +4,7 @@ Status: Pronto ✅
 
   ### É um trabalho de desenvolvimento mobile, feito para fins institucionais. Com o objetivo de listar os usuários e suas informações, possibilitando editar cada item (usuário) e organiza-los. 
 
-  ## Alguns campos utilizados no main são:
+  ## Alguns campos utilizados são:
 
   + Nome
   + URL do avatar (ícone de perfil)
